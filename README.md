@@ -9,7 +9,7 @@ Projeto guiado pela plataforma Rocketseat. Programa exclusivo e gratuito para en
 </p>
 
 <p align="center">
-<img src="./images/img-git.jpg" alt="">
+<img src="./images/img-git.jpg" alt="" width="80%">
 </p> 
 
 ## Autores
@@ -35,4 +35,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é meu primeiro projeto acompanhando a plataforma de estudos Rocketseat, a qual recriamos através do Figma, uma página de móveis customizados.
 
-- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Rocketseat-01/)
