@@ -1,2 +1,38 @@
 # Projeto 01
-Primeiro projeto guiado pela Rocketseat
+
+
+
+<h1 align="center"> Rocketseat-01 </h1>
+
+<p align="center">
+Projeto guiado pela plataforma Rocketseat. Programa exclusivo e gratuito para ensino de tecnologias WEB.
+</p>
+
+<p align="center">
+<img src="./images/img-git.jpg" alt="">
+</p> 
+
+## Autores
+
+- [@isisgoncalves](https://www.github.com/isisgoncalves)
+
+## Referência
+
+ - [Rocketseat](https://www.rocketseat.com.br)
+ - [Mayk Brito](https://github.com/maykbrito)
+ - [ReadMe](https://readme.so/pt)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Figma
+- Git e Github
+
+## 💻 Projeto
+
+Este é meu primeiro projeto acompanhando a plataforma de estudos Rocketseat, a qual recriamos através do Figma, uma página de móveis customizados.
+
+- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/DevLinks/)
