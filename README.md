@@ -1,7 +1,3 @@
-# Projeto 01
-
-
-
 <h1 align="center"> Rocketseat-01 </h1>
 
 <p align="center">
