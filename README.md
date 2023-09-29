@@ -1,7 +1,7 @@
 <h1 align="center"> Móveis Customizados </h1>
 
 <p align="center">
-Projeto guiado pela plataforma Rocketseat. Programa exclusivo e gratuito para ensino de tecnologias WEB.
+Projeto guiado pela plataforma Rocketseat. Programa exclusivo para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
