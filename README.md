@@ -1,4 +1,4 @@
-<h1 align="center"> Rocketseat-01 </h1>
+<h1 align="center"> Móveis Customizados </h1>
 
 <p align="center">
 Projeto guiado pela plataforma Rocketseat. Programa exclusivo e gratuito para ensino de tecnologias WEB.
@@ -31,4 +31,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é meu primeiro projeto acompanhando a plataforma de estudos Rocketseat, a qual recriamos através do Figma, uma página de móveis customizados.
 
-- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/Rocketseat-01/)
+- [Acesse o projeto finalizado, online.](https://isisgoncalves.github.io/moveis-customizados/)
